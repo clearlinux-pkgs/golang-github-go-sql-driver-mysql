@@ -5,7 +5,7 @@ URL      : https://github.com/go-sql-driver/mysql/archive/v1.2.tar.gz
 Source0  : https://github.com/go-sql-driver/mysql/archive/v1.2.tar.gz
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : MPL-2.0-no-copyleft-exception
+License  : MPL-2.0
 BuildRequires : go
 
 %description
