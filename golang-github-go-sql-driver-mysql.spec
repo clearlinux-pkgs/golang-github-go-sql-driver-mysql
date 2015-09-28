@@ -1,6 +1,6 @@
 Name     : golang-github-go-sql-driver-mysql 
 Version  : 1.2
-Release  : 3
+Release  : 4
 URL      : https://github.com/go-sql-driver/mysql/archive/v1.2.tar.gz
 Source0  : https://github.com/go-sql-driver/mysql/archive/v1.2.tar.gz
 Summary  : No detailed summary available
